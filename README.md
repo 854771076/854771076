@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi there👋, I'm Yang Fu</h1>
 <p align="center">
+     <a title="Github Total views" target="_blank" href="https://github.com/854771076">
+        <img src="https://komarev.com/ghpvc/?username=854771076" />
+    </a>
     <a title="Github Total Stars" target="_blank" href="https://github.com/854771076">
         <img src="https://img.shields.io/github/stars/854771076.svg?logo=star&label=Total%20Stars&color=success" />
     </a>
